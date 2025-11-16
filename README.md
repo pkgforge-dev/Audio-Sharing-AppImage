@@ -1,7 +1,7 @@
 # Audio-Sharing-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Audio-Sharing-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Audio-Sharing-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Audio-Sharing-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Audio-Sharing-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Audio-Sharing-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Audio-Sharing-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://gitlab.gnome.org/World/AudioSharing/-/raw/main/data/icons/hicolor/scalable/apps/de.haeckerfelix.AudioSharing.svg?ref_type=heads" width="128" />
