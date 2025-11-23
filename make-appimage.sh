@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/de.haeckerfelix.AudioSharing.desktop
 export DEPLOY_OPENGL=1
 export DEPLOY_GSTREAMER=1
 export STARTUPWMCLASS=audio-sharing # For Wayland, this is 'de.haeckerfelix.AudioSharing', so this needs to be changed in desktop file manually by the user in that case until some potential automatic fix exists for this
-export LOCALE_FIX=1 # Fixes crash when it fails to switch libc locale in alpine linux
+export ANYLINUX_LIB=1 # Fixes crash when it fails to switch libc locale in alpine linux
 
 # Trace and deploy all files and directories needed for the application (including binaries, libraries and others)
 quick-sharun /usr/bin/audio-sharing
