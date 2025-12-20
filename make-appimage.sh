@@ -12,7 +12,6 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/de.haeckerfelix.AudioSharing.
 export DESKTOP=/usr/share/applications/de.haeckerfelix.AudioSharing.desktop
 export DEPLOY_OPENGL=1
 export DEPLOY_GSTREAMER=1
-export STARTUPWMCLASS=audio-sharing
 export GTK_CLASS_FIX=1
 export ANYLINUX_LIB=1 # Fixes crash when it fails to switch libc locale in alpine linux
 
