@@ -13,7 +13,6 @@ export DESKTOP=/usr/share/applications/de.haeckerfelix.AudioSharing.desktop
 export DEPLOY_GSTREAMER=1
 export STARTUPWMCLASS=de.haeckerfelix.AudioSharing # Default to Wayland's wmclass. For X11, GTK_CLASS_FIX will force the wmclass to be the Wayland one.
 export GTK_CLASS_FIX=1
-export ANYLINUX_LIB=1 # Fixes crash when it fails to switch libc locale in alpine linux
 
 # Trace and deploy all files and directories needed for the application (including binaries, libraries and others)
 quick-sharun /usr/bin/audio-sharing
